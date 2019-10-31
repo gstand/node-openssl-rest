@@ -1,8 +1,8 @@
 # node-openssl-rest
-
+This is a version designed for Synergize Enterprises with appropriate branding. See [here](https://github.com/lspiehler/node-openssl-rest) for original node-openssl-rest.
 ### Installation
 ```
-git clone https://github.com/lspiehler/node-openssl-rest.git
+git clone https://github.com/gstand/node-openssl-rest.git
 cd node-openssl-rest
 npm install
 npm install -g bower
